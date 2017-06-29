@@ -1,0 +1,13 @@
+{
+  "name": "sample-app",
+  "version": "1.0.0",
+  "description": "A sample app",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.15.3",
+    "jade": "^1.11.0"
+  },
+  "devDependencies": {},
+  "author": "Alexander Groß",
+  "license": "MIT"
+}
